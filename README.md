@@ -2,7 +2,7 @@
 ## Key points:
 ### 1. How to read multiple.h5 files efficiently in R
 ### 2. How to calculate mitochondria percentage for the species other than mice and humans in Seurat
-### 2. How to use harmony to do the batch effect correction
+### 3. How to use harmony to do the batch effect correction
 
 ## The analyses are implented by Seurat packages, please refer to its offical website for more information:
 ### https://satijalab.org/seurat/
